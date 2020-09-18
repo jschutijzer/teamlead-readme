@@ -16,7 +16,7 @@ Er voor zorgen dat iedereen in mijn team gelukkig en succesvol is, is een van mi
 
 Het is ook belangrijk dat ik je de visie van ons bedrijf en ons team duidelijk maak, zodat we als team naar een zelfde doel kunnen werken. Onze neuzen allemaal in dezelfde richting laten wijzen is waar ik probeer met het team aan het werken. 
 
-## Wat vind ik belangrijk ([radical candor](https://www.radicalcandor.com/), [the 5 dysfunctions of a team](The Five Dysfunctions of a Team))
+## Wat vind ik belangrijk ([radical candor](https://www.radicalcandor.com/), [the 5 dysfunctions of a team](https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team))
 
 - Vertrouwen: iedereen moet zich goed voelen in het team zodat we onze fouten en mindere kanten kunnen laten zien en we kunnen vragen naar hulp als dat nodig is
 - Geen angst voor conflict: we moeten openlijk onze mening kunnen zeggen en met elkaar in discussie durven gaan. Een discussie uit de weg gaan om conflict te vermijden levert niet de beste resultaten op.
@@ -30,9 +30,16 @@ Het is ook belangrijk dat ik je de visie van ons bedrijf en ons team duidelijk m
 
 Ik heb niet liever dan dat je me feedback geeft. I'm only human en heb ook mijn blindspots. Als ik iets zeg, doe, laat dat niet ok is, als ik beter kan doen of als ik iets volledig fout heb gedaan, dan wil ik dat absoluut weten zelfs als je denk dat dat niet het geval is. 
 Face-to-face feedback is altijd het beste maar je mag me altijd telefoneren, mailen of slacken. Liever dat dan dat je je feedback voor jezelf houdt.
+Voel je je niet comfortabel genoeg om me rechtstreeks feedback te geven, dan kan je altijd iemand van mijn leidinggevende vragen om je feedback anoniem aan mij te geven. 
+Als je feedback hebt over iemand van het team, dan raad ik je aan om de feedback rechtstreeks aan die persoon te geven. Als je je er niet comfortabel bij voelt kan ik dat voor je doen. Als je direct feedback wil geven aan iemand maar je niet weet hoe, of je voelt je er niet comfortabel bij, laat het me weten en dan kunnen we er over praten.
 
 
 ## One-on-one
+
+Elke drie weken zal je in je kalender een one-on-one meeting vinden die een uur duurt. Deze hoeven niet zo lang te duren, maar ik heb liever wat tijd over dan dat we ze afbreken omdat we geen tijd meer hebben. Indien we toch langer nodig zouden hebben, kijken we wel op dat moment of we nog verder kunnen gaan of op een later tijdstip verder praten. 
+
+One-on-one zijn er voor jou. Het is jou mogelijkheid om me te laten weten hoe het met je gaat, wat je nodig hebt, wat je graag anders zou zien, hoe je je voelt over ons team, ... Indien je me gewoon een status-update wilt geven dan kan je dat best doen buiten deze meeting door even naar me te komen of me te slacken. 
+Probeer deze meeting voor te bereiden in de week voor de one-one-one. Het is soms lastig om op het moment zelf op dingen te komen om te bespreken. Gebruik even je google skills om ideetjes op te doen voor de one-on-one. 
 
 Elke drie weken 
 ...... work in progress
