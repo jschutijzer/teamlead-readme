@@ -17,6 +17,6 @@ Als ik niet programmeer of probeer een goede teamlead te zijn, ben ik thuis voor
 Er voor zorgen dat iedereen in mijn team gelukkig en succesvol is, is een van mijn belangrijkste taken. Hoe gelukkiger en succesvoller iedereen is, hoe beter we als team presteren en fuctioneren. Ik zal er alles aan proberen te doen om je skills te verbeteren, je carriere te laten groeien and je gelukkig te laten zijn met het werk dat je doet.
 
 
-
+...... work in progress
 
 ## 
