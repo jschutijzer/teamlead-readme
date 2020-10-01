@@ -38,7 +38,7 @@ Als je feedback hebt over iemand van het team, dan raad ik je aan om de feedback
 
 Elke drie weken zal je in je kalender een one-on-one meeting vinden die een uur duurt. Deze hoeven niet zo lang te duren, maar ik heb liever wat tijd over dan dat we ze afbreken omdat we geen tijd meer hebben. Indien we toch langer nodig zouden hebben, kijken we wel op dat moment of we nog verder kunnen gaan of op een later tijdstip verder praten. 
 
-One-on-one zijn er voor jou. Het is jou mogelijkheid om me te laten weten hoe het met je gaat, wat je nodig hebt, wat je graag anders zou zien, hoe je je voelt over ons team, ... Indien je me gewoon een status-update wilt geven dan kan je dat best doen buiten deze meeting door even naar me te komen of me te slacken. 
+One-on-one zijn er voor jou. Het is jouw mogelijkheid om me te laten weten hoe het met je gaat, wat je nodig hebt, wat je graag anders zou zien, hoe je je voelt over ons team, ... Indien je me gewoon een status-update wilt geven dan kan je dat best doen buiten deze meeting door even naar me te komen of me te slacken. 
 Probeer deze meeting voor te bereiden in de week voor de one-one-one. Het is soms lastig om op het moment zelf op dingen te komen om te bespreken. Gebruik even je google skills om ideetjes op te doen voor de one-on-one. 
 
 
